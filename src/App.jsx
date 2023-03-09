@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AiOutlineSearch } from 'react-icons/ai';
-import './App.css';
+import 'App.css';
 
 import api from './services/api';
 
